@@ -1,6 +1,6 @@
 # Todolist
 
-Steps to run the web app.
+Steps .
 1. Download the zip file and place it anywhere on your file explorer.
 2. Download and install Nodejs on your system.
 3. Set up and start mongoDb local server.
